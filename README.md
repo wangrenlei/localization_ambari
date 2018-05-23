@@ -1,0 +1,1 @@
+## Apache Ambari 国际化支持补丁请移步到AMBARI-20767分支.
